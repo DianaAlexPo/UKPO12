@@ -1,6 +1,6 @@
 install: true
 
-jdk: oraclejdk8
+jdk: oraclejdk9
 
 language: java
 
